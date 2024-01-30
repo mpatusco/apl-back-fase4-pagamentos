@@ -18,7 +18,7 @@ jobs:
       - name: Checkout do Código para Mock
         uses: actions/checkout@v2
         with:
-          repository: santos-gabriel/fiap-mock
+          repository: santos-gabriel/apl-back-fase4-mock-api
           ref: main
           path: caminho/para/aplicacao-de-mock
 
